@@ -1,0 +1,5 @@
+c:\users\naustria\documents\visual studio 2012\Projects\ECOmerce\ECOmerce\bin\ECOmerce.dll
+c:\users\naustria\documents\visual studio 2012\Projects\ECOmerce\ECOmerce\bin\ECOmerce.pdb
+c:\users\naustria\documents\visual studio 2012\Projects\ECOmerce\ECOmerce\obj\Debug\ECOmerce.csprojResolveAssemblyReference.cache
+c:\users\naustria\documents\visual studio 2012\Projects\ECOmerce\ECOmerce\obj\Debug\ECOmerce.dll
+c:\users\naustria\documents\visual studio 2012\Projects\ECOmerce\ECOmerce\obj\Debug\ECOmerce.pdb
